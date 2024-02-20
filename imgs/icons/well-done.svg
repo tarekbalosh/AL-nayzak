@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="324.953" height="350.855" viewBox="0 0 324.953 350.855">
+  <g id="Group_2601" data-name="Group 2601" transform="translate(-794.273 -353.506)">
+    <g id="Group_2598" data-name="Group 2598" transform="translate(-6)">
+      <g id="Group_2596" data-name="Group 2596" transform="translate(488.683 22.823)">
+        <path id="Icon_feather-thumbs-up" data-name="Icon feather-thumbs-up" d="M150.107,88.812V39.777A36.777,36.777,0,0,0,113.33,3L64.294,113.33V248.178h138.28a24.518,24.518,0,0,0,24.518-20.84l16.917-110.33a24.518,24.518,0,0,0-24.518-28.2ZM64.294,248.178H27.518A24.518,24.518,0,0,1,3,223.66V137.848A24.518,24.518,0,0,1,27.518,113.33H64.294" transform="translate(359.674 433.358)" fill="#b7e0ff"/>
+      </g>
+      <g id="Group_2597" data-name="Group 2597" transform="translate(476.683 1.823)">
+        <path id="Icon_feather-thumbs-up-2" data-name="Icon feather-thumbs-up" d="M150.107,88.812V39.777A36.777,36.777,0,0,0,113.33,3L64.294,113.33V248.178h138.28a24.518,24.518,0,0,0,24.518-20.84l16.917-110.33a24.518,24.518,0,0,0-24.518-28.2ZM64.294,248.178H27.518A24.518,24.518,0,0,1,3,223.66V137.848A24.518,24.518,0,0,1,27.518,113.33H64.294" transform="translate(359.674 433.358)" fill="none" stroke="#172a40" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+    <g id="Group_2599" data-name="Group 2599">
+      <path id="Icon_feather-star" data-name="Icon feather-star" d="M35.583,3,45.651,23.4l22.515,3.291L51.875,42.556l3.845,22.417L35.583,54.383,15.447,64.973l3.845-22.417L3,26.688,25.515,23.4Z" transform="translate(1051.061 435.182)" fill="#fc0"/>
+      <path id="Icon_feather-star-2" data-name="Icon feather-star" d="M35.583,3,45.651,23.4l22.515,3.291L51.875,42.556l3.845,22.417L35.583,54.383,15.447,64.973l3.845-22.417L3,26.688,25.515,23.4Z" transform="translate(797.773 461.006)" fill="#fc0"/>
+      <path id="Icon_feather-star-3" data-name="Icon feather-star" d="M35.583,3,45.651,23.4l22.515,3.291L51.875,42.556l3.845,22.417L35.583,54.383,15.447,64.973l3.845-22.417L3,26.688,25.515,23.4Z" transform="translate(918.773 359.006)" fill="#fc0"/>
+    </g>
+    <g id="Group_2600" data-name="Group 2600" transform="translate(-4 -6)">
+      <path id="Icon_feather-star-4" data-name="Icon feather-star" d="M35.583,3,45.651,23.4l22.515,3.291L51.875,42.556l3.845,22.417L35.583,54.383,15.447,64.973l3.845-22.417L3,26.688,25.515,23.4Z" transform="translate(1051.061 435.182)" fill="none" stroke="#172a40" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path id="Icon_feather-star-5" data-name="Icon feather-star" d="M35.583,3,45.651,23.4l22.515,3.291L51.875,42.556l3.845,22.417L35.583,54.383,15.447,64.973l3.845-22.417L3,26.688,25.515,23.4Z" transform="translate(797.773 461.006)" fill="none" stroke="#172a40" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path id="Icon_feather-star-6" data-name="Icon feather-star" d="M35.583,3,45.651,23.4l22.515,3.291L51.875,42.556l3.845,22.417L35.583,54.383,15.447,64.973l3.845-22.417L3,26.688,25.515,23.4Z" transform="translate(918.773 359.006)" fill="none" stroke="#172a40" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

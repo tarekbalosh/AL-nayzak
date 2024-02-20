@@ -1,0 +1,1332 @@
+
+
+.gr {
+    background-color: #eee;
+    height: 1250px;  
+}
+.top{
+    margin-top:10px;
+    
+}
+
+
+.con, .con2, .con6 {
+    margin-top: 80px;
+}
+.l1 {  
+   background-color:darkslateblue; 
+   
+    height: 790px;
+}
+
+.carousel-caption .img1 {
+    width: 200px;
+    height: 200px;
+    color:white;
+}
+.carousel-caption
+{
+    margin-bottom:50px;
+}
+.p1 {
+    color: white;
+}
+.l1 .img-responsive {
+    width: 100%;
+    height: 100%;
+    opacity:0.4;
+    margin:auto;
+}
+
+.icon{
+    color:white;
+}
+.icon span{
+    margin-right:20px;
+    line-height:100px;
+}
+.l2 {
+    background-color: white;
+    padding-left: 50px;
+    padding-top: 60px;
+    height: 790px;
+}
+.l2 strong{
+    color:cornflowerblue;
+    font-size:23px;
+    
+    margin-top:100px;
+}
+.l2 span{
+    color:#808080;
+    font-size:23px;
+}
+.l2 .st2 {
+    color: cornflowerblue;
+}
+.l2 .st1 {
+    color:#808080;
+}
+.p2{
+    opacity:0.6;
+}
+.form1 input
+{
+   width:300px;
+   height:37px;
+}
+.form1 .check1 {
+    width: 30px;
+    height: 15px;
+    color:red;
+}
+.form1 select {
+    width: 300px;
+    height: 37px;
+}
+.form1 label
+{
+    opacity:0.7;
+}
+label sup{
+    color:blue;
+    font-size:12px;
+}
+.l2 .sp1{
+  font-size:12px;
+  font-weight:bold;
+  color:black;
+  opacity:0.7;
+  position:relative;
+  bottom:3px;
+}
+.l2 .sp2 {
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    opacity: 0.5;
+    position: relative;
+    bottom: 3px;
+    
+}
+.list-unstyled a
+{
+    color:black;
+    text-decoration:none;
+}
+.l2 .btn-info {
+    width: 100px;
+    height: 35px;
+    border: 0px solid aqua;
+}
+.All
+{
+    opacity:0.7;
+}
+.part2
+{
+    position:relative;
+    right:30px;
+}
+/*page sign in*/
+.l2 .forget {
+    margin-left: 200px;
+    font-size: 13px;
+}
+.l2 .text1
+{
+    width:400px;
+}
+/*page reset*/
+.l2 .reset {
+   top: 100px;
+   position:absolute;
+    color: cornflowerblue;
+}
+/*page edait profail*/
+.con4{
+    margin-top:60px;
+}
+.colorwhite {
+    color: white;
+    margin-left: 1150px;
+    width: 150px;
+    position: absolute;
+}
+.colorwhite span{
+    margin-left:20px;
+   
+}
+ .active {
+    padding: 1px 6px;
+}
+.navbar-collapse, .colorwhite {
+    margin-top: 13px;
+}
+.navbar-collapse ul li
+{
+    cursor:pointer;
+    margin-left:25px;
+}
+.img2{
+    width:200px;
+    float:left;
+}
+.form-inline .inpt1 {
+    width: 450px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    text-indent: 30px;
+    
+   
+
+}
+.tool .fa-search{
+   position:absolute;
+   top:14px;
+   left:210px;
+   font-size:20px;
+   color:cornflowerblue;
+   opacity:0.8
+}
+.ss1, .ss2 {
+    height: 50px;
+    background-color: aquamarine;
+    opacity: 0.8;
+    font-size: 20px;
+}
+.ss1 {
+    margin-left: -5px;    
+    display: inline-block;   
+}
+.ss2 
+{
+    
+    padding-left: 60px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: -5px;
+    
+}
+.form-inline{
+    left:50px;
+    top:15px;
+    position:relative;
+}
+.icon2{
+    direction:rtl;
+    margin-top:-30px;
+    font-size:20px;
+    margin-left:10px
+}
+    .icon2 span {
+        right: -10px;
+        position:relative;
+        color:aquamarine;
+        font-size:23px
+    }
+ .icon2 .Ayat{
+   position:relative;
+   top:3px;
+    color:dimgrey;
+    font-size:17px
+}
+ .k1, .k2, .k3, .k4 {
+     background-color:#eee;
+     padding:20px 40px;
+ }
+.q5 {
+    background-color:#eee;
+}
+ .k2 .lead
+ {
+     font-size:35px;
+     font-weight:bold;
+ }
+ .k2 ul li{
+     font-size:20px;
+     line-height:40px;
+     cursor:pointer
+ }
+.profile,.pro {
+    color:blue;
+}
+.yuor{
+    color:gray;
+    font-size:20px
+}
+.Edit{
+    height:20px;
+    font-size:30px;
+    font-weight:bold;
+    margin-top:20px
+}
+
+.mor .in1{
+  position:relative;
+  right:60px;
+  width:350px;
+}
+.mor .in2 {
+    position: relative;
+    right: 30px;
+    width: 350px;
+}
+.mor input{
+    height:50px;
+    width:350px
+    
+}
+.in3{
+    height:60px;
+    width:740px
+}
+.in4{
+    width:700px;
+    height:200px
+}
+.Gender, .View {
+    font-size: 20px;
+    color: gray;
+}
+.View{
+    margin-left:500px
+}
+.k5, .k6 {
+    height: 50px;
+    color:gray;
+    font-size:20px
+}
+.k5{
+    width:500px;
+    height:50px;
+    position:relative;
+    right:50px
+
+}
+.k6{
+   width:150px;
+
+}
+.k4 .btn4 {
+    padding: 5px 30px;
+    border: 2px solid cornflowerblue;
+    background-color: cornflowerblue;
+    color: white
+}
+.bg1 {
+    background-image: url("../imgs/photo5.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    width:100%;
+    height:500px;
+    text-align:center;
+    color:white;
+}
+.bg1 .ddown
+{
+   padding-top:150px;
+}
+.goleft{
+    position:relative;
+    left:200px;
+}
+.goleft span
+{
+    margin-right:500px;
+    color:black;
+ }
+.ddown span{
+    color:black;
+}
+
+.flot, .spansh {
+    display: inline-block
+}
+.flot{
+    margin-left:760px;
+}
+.flot span{
+    margin-right:10px
+}
+/*page edaite account*/
+.Drag1 {
+    background-color: aquamarine;
+    opacity: 0.8;
+    text-indent: 40px;
+    padding-top:20px;
+    color: gray;
+    font-size: 15px;
+    height: 100px;
+    border: 3px dashed darkblue;
+}
+.Drag1 .btn-default
+{ 
+    background-color:blue;
+    color:white;
+    padding:6px 30px;
+   margin-left:20px;
+    border-radius:50px;
+}
+.btn2 , .btt1 {
+    padding: 8px 30px;
+    border: 2px solid cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
+    margin-left:20px;
+}
+.gmail
+{
+    width:600px;
+    display:inline-block;
+}
+.yuor1{
+    color:black;
+    font-size:23px;
+    font-weight:bold
+}
+.inn{
+    height:60px
+}
+.clo{
+    color:red;
+    font-size:20px
+}
+/*page payment methods*/
+
+.search1{
+    font-size:50px
+}
+.were{
+    color:royalblue;
+    font-size:20px; 
+   
+   
+   
+
+}
+.yuo {
+    color: gray;
+    font-weight: bold;
+    margin-left:40px;
+  
+}
+.btn5 {
+    background-color: cornflowerblue;
+    color: white;
+    border-color: cornflowerblue;
+    font-size: 18px;
+    padding: 10px 50px
+}
+/*page payment methods2*/
+
+.nbg {
+   
+    text-indent: 20px;
+    line-height: 30px;
+    background-color: whitesmoke;
+}
+.nbg1 {
+   padding:10px;
+   border-radius:30px;
+    background-color: whitesmoke;
+}
+.pay {
+    color: royalblue;
+    position:relative;
+    top:10px;
+    font-size:25px;
+    font-weight:bold;
+   line-height:70px
+}
+.text3 .text2 {
+    
+    color: grey;
+}
+.text3{
+    font-size: 18px;
+   
+}
+.text2{
+    font-size: 15px
+}
+/*page Notifiction Setting*/
+.Edit1{
+    color:black;
+    font-size:22px;
+    font-weight:bold;
+    line-height:60px
+}
+.tr {
+    position: relative;
+    left: 10px;
+    font-size: 22px;
+    color: gray;
+}
+.btn3 {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-color: cornflowerblue;
+}
+/*page finicail*/
+.bg2 {
+   
+    
+}
+.ddiv1 {
+    background-color:#eee;
+   height:250px; 
+   width:400px;
+   text-indent:50px;
+   padding-top:30px;
+    display:inline-block;
+}
+.d1{
+    margin-left:40px;
+}
+.ddiv1 .lead{
+    font-weight: bold;
+}
+.ddiv1 .number
+{
+    font-size:36px;
+}
+.ddiv1 .cours
+{
+    
+    font-size:19px;
+}
+.ddiv1 .pay1 {
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.bbtn2 {
+    background-color: cornflowerblue;
+    color: white;
+    border-color: cornflowerblue;
+    font-size: 18px;
+    padding: 10px 30px;
+    text-align: center;
+    margin-left: 45px;
+}
+.k4{
+    
+}
+.k4 .price {
+    font-weight: bold;
+    color: red;
+    font-size: 16px;
+    opacity:0.8;
+}
+.k4 .price2 {
+    font-weight: bold;
+    margin-left: 40px;
+   color:gray;
+}
+.k4 .priceplus {
+  color: cornflowerblue;
+  font-weight:bold;
+  font-size:16px;
+}
+.k4 .price3 {
+    margin-left: 90px;
+    color: gray;
+    line-height: 40px;
+}
+.k4 .gray1
+{
+    background-color:#808080;
+    height:2px;
+    opacity:0.7;
+
+}
+.price2 .bblack
+{
+    color:black;
+    opacity:0.7;
+    font-size:15px;
+}
+/*page edit Request*/
+.your3 {
+    color: gray;
+    font-size: 20px
+}
+.your2 {
+    color: gray;
+    font-size: 25px;
+    margin-left:150px
+}
+.row .y1{
+    height:40px;
+    width:500px;
+}
+.det{
+    font-size:27px
+}
+
+.in5{
+    position:relative;
+    right:50px;
+  padding:0px 100px 0px 10px;
+ 
+}
+
+.in6 {
+    padding: 0px 100px 0px 10px;
+}
+.kk7{
+    
+    height:50px;
+   
+    font-size:20px;
+    color:gray;
+   text-indent:10px
+}
+.inn {
+   
+    position: relative;
+    right: 15px;
+    padding: 0px 100px 0px 10px;
+    background-color:whitesmoke;
+    color:white;
+    font-size:20px;
+   
+}
+.row .col-xs-12 .bn3 {
+    background-color: cornflowerblue;
+    color: white;
+    border-color: cornflowerblue;
+    font-size: 18px;
+    padding: 10px 0px;
+    text-align: center;
+    width:140px;
+}
+.inp3
+{
+    width:350px;
+    height:50px;
+    margin:auto;
+}
+.with{
+    color:black;
+    padding-top:30px;
+    margin-left:-100px;
+    letter-spacing:1px;
+    font-weight:bold;
+    font-size:23px;
+}
+ .q5 .row .inp4
+ {
+     color:gray;
+ }
+ /*page Home*/
+.signin  {
+  color:cornflowerblue;
+      position:absolute;
+      right:160px;
+      width:80px;
+      font-size:18px;
+      cursor:pointer;
+}
+.signin:hover  {
+   color:white;
+}
+.buttun1{
+
+    padding-left:50px;
+    padding-right:50px;
+    border-radius:50px;
+    height:40px
+    
+}
+.buttun2 {
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 50px;
+    height: 40px;
+   background-color:none;
+   font-weight:bold
+}
+.start {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    color: aqua;
+    border-radius: 50px;
+    height: 60px;
+    background-color: none;
+    font-weight: bold
+}
+
+.trans .form-inline{
+  text-indent:-70px
+
+}
+.color {
+    background-image: url("../imgs/photo5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    height:700px;
+    padding-top: 100px;
+    padding-left: 70px
+}
+.trans .lead{
+    font-size:40px;
+    color:darkblue;
+
+}
+.trans .Build {
+    font-size: 20px;
+    color: white;
+}
+.trans .photo2 {
+    width: 600px;
+    height: 500px;
+    margin-top:-50px;
+   transform:rotateY(-200deg)
+}
+.row .d2 .trans{
+    margin-top:70px;
+   margin-left:100px
+  
+
+}
+.d3 .photo3{
+    width:100px;
+    height:100px;
+    float: left;
+    margin:auto
+}
+.row .bgfont{
+    font-size:40px
+}
+.d3 .learn {
+    left: 20px;
+    top: 20px;
+    position:relative
+}
+.drop2
+{
+    display:none;
+    padding:10px;
+  
+}
+.spanblue1 , .spanblue2
+{
+    margin-left:40px;
+    font-weight:bold;
+    cursor:pointer;
+}
+.spanblue1
+{
+    color:darkblue;
+    border-bottom:solid;
+    border-color:blue;
+}
+.ggo12{
+    width:30px;
+    
+}
+.go{
+    background-color:aquamarine;
+    color:black
+}
+.Broues
+{
+    font-size:30px;
+    font-weight:bold;
+}
+.fa-arrow-right, .fa-arrow-left {
+    background-color: cornflowerblue;
+    border-radius: 50px;
+    padding: 10px 15px;
+    color: white;
+    font-size: 20px;
+}
+.fa-arrow-right
+{
+    position:relative;
+    right:250px;
+}
+.carousel-caption
+{
+   
+   padding-top:0px;
+  
+    position:absolute;
+    top:10px;
+    left:0px;
+   
+}
+.carousel-caption .btn-danger
+{
+    margin-right:100px;
+    padding:3px 16px;
+    text-align:center;
+    background-color:red;
+
+}
+.sliderbg .slid1 .complete
+{
+    font-size:17px;
+    color:#808080;
+    font-weight:bold;
+
+}
+.sliderbg .slid1 .fa-star
+{
+    color:gold;
+    
+}.sliderbg .slid1 .oclock
+{
+    margin-left:30px;
+    
+}
+.slid1
+{
+    margin-left:15px;
+}
+ .sliderbg{
+     border:2px solid #eee;
+     border-radius:12px;
+ }
+ .sliderbg img
+ {
+     border-top-right-radius:12px;
+     border-top-left-radius:12px;
+ }
+.choose{
+    font-size:35px;
+    font-weight:bold
+}
+.Lorem{
+    font-size:19px;
+    color:gray
+}
+.port {
+    background-color: cornflowerblue;
+    border-radius: 50px;
+    border-color: green;
+    padding: 15px 50px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    color: white
+}
+.qq img {
+    width: 120px;
+    margin-left: 80px;
+    padding-top: 20px
+}
+.qq {
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 30px;
+    height: 300px;
+    box-shadow:-10px 10px 20px
+}
+.pg3grae{
+    background-image:url(../imgs/photo5.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+  
+    padding-top:150px;
+    padding-bottom:150px;
+}
+.photoq{
+    width:100px
+}
+.nmp{
+    color:blue;
+    font-size:20px;
+    margin-left:20px
+}
+.Desin{
+    margin-left:30px
+}
+.nmpp {
+    color: blue;
+    font-size: 20px;
+   position:relative;
+   right:10px
+}
+.d4:hover {
+    background-color: whitesmoke;
+    text-align: center;
+    height: 300px;
+    width:200px;
+    border-radius:30px;
+    cursor:pointer;
+
+  
+}
+.d4  {
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+ .d4 .bagred{
+        margin-left:40px
+ }
+.bagphoto {
+    margin-top: -50px;
+    box-shadow: 25px 40px 10px #eee;
+}
+.trans .Earn{
+    color:black
+}
+.users {
+    background-color: #eee;
+    text-align: center;
+    height: 340px;
+    
+}
+    .users img {
+        margin: auto;
+        position: absolute;
+        top: -20px;
+        left:100px;
+        width: 160px;
+        height: 160px;
+        
+    }
+   .home2users img 
+   {
+    margin: auto;
+    position: absolute;
+     top:1px;
+     left:130px;
+    width: 100px;
+    height: 100px;
+   }
+
+    .users .userstr1 {
+        font-size: 130px;
+        color: aquamarine;
+        position: absolute;
+        top: 0px;
+        right: 280px;
+        transform:rotate(-180deg);
+    }
+    .users .userstr2 {
+        font-size: 130px;
+        color: aquamarine;
+        position: absolute;
+        bottom:-10px;
+        right:20px;
+    }
+    .users .usdown1
+    {
+     padding-top:100px;
+    }
+    .users p {
+        color: gray;
+        font-size: 17px;
+       
+    } .users span
+    {
+        
+       color:black;
+    }
+      /*Home2*/
+.home2inpt1 
+{
+   text-indent:30px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+   
+}
+
+.home2sel1, .home2sel2 {
+    height: 50px;
+    background-color: aquamarine;
+    opacity: 0.8;
+    font-size: 20px;
+}
+
+.home2sel1 {
+    margin-left: -5px;
+   
+}
+
+.home2sel2 {
+    padding-left: 60px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: -5px;
+}
+.homecol2  input
+{
+    border-radius:50px;
+    
+}
+.homecol2 span 
+{
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 870px;
+    margin-right:20px;
+}
+
+.homecol2 {
+    position: absolute;
+    width: 1200px;
+    top:130px;
+}
+
+.home2col7 .form-inline i
+{
+   font-weight:bolder;
+   font-size:17px;
+   position:relative;
+   left:30px;
+
+}
+.Home2 .col-xs-12 .lead
+{
+    font-size:30px;
+}
+.Home2 .col-xs-12 .h2spa1
+{
+    color:gray;
+}
+.Home2 .col-xs-12 .hr2line {
+    background-color: gray;
+    height:1px;
+}
+.Home2 .col-xs-12 .groupUser {
+    margin-left:20px;
+}
+.Home2 .col-xs-3 select {
+   width:260px;
+   height:50px;
+   font-size:20px;
+   color:gray;
+}
+.Home2 .col-xs-3 .Reset {
+   
+    font-size: 20px;
+    color:blue;   
+    padding-top:14px;
+    padding-left:30px;
+}
+.larg3 .hom2carousel, .larg3 .h2number {
+    position: relative;
+    top: 20px;
+} 
+.larg3 .h2number
+
+{
+   
+    position: relative;
+    top: 40px;
+}
+.h2number .h2left
+{
+    margin-left:80%;
+}
+    .h2number .h2left .ggo12 {
+        background-color: white;
+        border: 3px solid #eee;
+        margin-left:30px;
+        width:50px;
+    }
+    .h2number .h2left label {
+       color:gray
+    }
+    .h2number .h2left .go {
+      
+       position:relative;
+       right:5px;
+        
+    }
+    .h2number span {
+      
+       position:relative;
+       top:25px;
+        
+    }
+    .h2number .last {
+      
+       margin-left:30px;
+        
+    }
+.larg3 .h2div2
+{
+    position: relative;
+    top: 45px;
+}
+ .h2number .last , .h2number .first {
+   
+    font-size:20px;
+     
+ }
+  .h2div2 
+ {
+     display:none;
+ }
+  .h2blue1
+  {
+     color:blue;
+     border-bottom:solid;
+     border-color:blue;
+  }
+.h2number span
+{
+    cursor:pointer;
+}
+.home2list ul li {
+    margin-bottom: 15px;
+}
+/*About*/
+.nay{
+    background-color:mediumturquoise
+}
+.ww {
+    margin-top: 50px;
+   
+}
+.about , .FQAabout {
+    height: 400px;
+    width:100%
+}
+.making{
+    position:absolute;
+    margin-left:150px;
+    margin-top:80px;
+    font-size:50px
+}
+.Us{
+    font-size:40px;
+    font-weight:bold;
+
+}
+.mooc {
+    font-size: 20px;
+    color:gray;
+    line-height:40px;
+   
+}
+.carousel-caption span .fa-play
+{
+    border-radius:50%;
+    border:3px solid white;
+    padding:20px;
+   position:absolute;
+   top:140px;
+}
+.imgabout{
+    border-radius:30px
+}
+.contact {
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    font-size:25px
+}
+.rr{
+    margin-top:70px
+}
+.aboutDown
+{  position:relative;
+   top:50px;
+}
+/*FAQ*/
+.col-xs-6 .FAQPARGRAPH
+{
+    margin-top:30px;
+}
+    .col-xs-6 .FAQPARGRAPH .Need {
+        font-size: 40px;
+        font-weight: bold;
+    }
+.col-xs-6 .FAQPARGRAPH .help
+{
+  font-size:20px;
+ line-height:30px;
+}
+.col-xs-6 .FAQPARGRAPH .fa-phone, .col-xs-6 .FAQPARGRAPH .fa-envelope
+{
+  font-size:40px;
+ color:cornflowerblue
+}
+.col-xs-6 .FAQPARGRAPH .phone
+{
+  font-size:30px;
+margin-left:20px;
+}
+    .col-xs-6 .FAQPARGRAPH .example {
+       
+        text-indent:50px;
+        color:gray;
+    }
+.FQAmaking {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 50px
+}
+.FQAROW
+{
+
+position:relative;
+top:50px;
+}
+/*FAQ*/
+.FAQline
+{
+    height:2px;
+    background-color:grey;
+}
+.col-xs-12 .FAQ1
+{
+    font-size:35px;
+}
+.pagefaq ul li
+{
+    font-size:20px;
+   color:gray;
+    line-height:50px;
+}
+.pagefaq ul .faqblue
+{
+   color:cornflowerblue
+}
+.col-xs-9 .underschool1 {
+   
+   width:20px;
+   height:5px;
+   background-color:black;
+    display:inline-block;
+    position:absolute;
+    top:50px;
+}
+.col-xs-9 .underschool2 {
+    display: inline-block;
+    width: 60px;
+    height: 2px;
+    background-color:cornflowerblue;
+    position: absolute;
+    top: 105px;
+    left:-10px;
+}
+.ipsum {
+    margin-left: 40px;
+   
+}
+.faqpargra {
+    margin-left: 60px;
+    font-size: 20px;
+    color: gray;
+    line-height: 40px;
+}
+.zakd
+{
+    font-size:30px;
+    font-weight:bold;
+}
+.lorems
+{
+    margin-left:10px;
+    font-size:25px;
+}
+.l2 .psign
+{
+    text-decoration:none;
+    color:gray;
+}
+/*Blog*/
+.contblog ul{
+    margin-left:300px;
+    font-size:20px
+
+}
+.homeblog{
+    color:gray;
+    font-size:15px;
+}
+.leadblog{
+    font-size:25px;
+    font-weight:bold
+}
+.hrblog{
+    background-color:gray;
+    height:1px;
+
+}
+.textblog {
+    border: solid 2px aquamarine;
+  height:420px;
+  border-radius:20px;
+  width:250px
+}
+.imgblog {
+    border-top-right-radius:20px ;
+    border-top-left-radius:20px;
+    
+}
+.titleblog{
+    margin-left:10px
+}
+.photoblog{
+  position:relative;
+  top:30px;
+  
+}
+.photoblog .col-xs-3{
+  
+  
+}
+.col-xs-12 .category2
+{
+    margin-left:30px;
+    font-weight:bold;
+    cursor:pointer;
+}
+.col-xs-12 .category1 {
+    font-weight: bold;
+    color: royalblue;
+    border-bottom: 2px solid blue;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.hsp2
+{
+    display:none;
+}
+.bloogbtn{
+    border-radius:40px;
+    background-color:royalblue;
+    opacity:0.7;
+    color:white;
+}
+    .bloogbtn:hover {
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+        background-color: royalblue;
+        opacity:1;
+        padding-right:30px;
+        color: black;
+    }
+.blogss1
+{
+    border-top-right-radius:50px;
+    border-bottom-right-radius:50px;
+}
+.BRO
+{
+    border-radius:50px;
+    height:40px;
+    margin-right:100px;
+    cursor:pointer;
+   
+}
