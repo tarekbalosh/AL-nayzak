@@ -857,7 +857,6 @@ label sup{
 .d4:hover {
     background-color: whitesmoke;
     text-align: center;
-    height: 300px;
     width:200px;
     border-radius:30px;
     cursor:pointer;
