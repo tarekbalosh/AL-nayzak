@@ -865,7 +865,7 @@ label sup{
 }
 .d4  {
     text-align: center;
-    height: 200px;
+    height: auto;
     width: 200px;
     border-radius: 30px;
 }
