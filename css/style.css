@@ -867,7 +867,8 @@ label sup{
     text-align: center;
     height: auto;
     width: 200px;
-    border-radius: 30px;
+    border-radius: 5px;
+    padding:10px 5px;
 }
  .d4 .bagred{
         margin-left:40px
